@@ -1,2 +1,2 @@
 # HomePage
-홍페이지
+홈페이지 Type 1
