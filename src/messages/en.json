@@ -1,0 +1,100 @@
+{
+  "Navbar": {
+    "services": "Services",
+    "aiAdvisor": "AI Advisor",
+    "contact": "Contact",
+    "getStarted": "Get Started"
+  },
+  "Hero": {
+    "headline": "Build the Future of Work <accent>with AI</accent>",
+    "subheadline": "Products, Processes, and People — powered for the AI era",
+    "description": "AI is not just a technology, it's a way of working. Processware AI connects solutions, processes, and people for the AI era.",
+    "ctaAdvisor": "Start with AI",
+    "ctaSolutions": "Explore Solutions",
+    "visualLabel": "AI-Powered Solutions"
+  },
+  "CoreMessage": {
+    "text": "We turn AI into <accent>real work</accent>"
+  },
+  "ThreePillars": {
+    "title": "Three Pillars of AI Transformation",
+    "subtitle": "A complete framework for bringing AI into your organization",
+    "product": "Product",
+    "productTagline": "Powered by AI",
+    "productDesc": "AI-powered solutions for real work",
+    "process": "Process",
+    "processTagline": "AI-Driven",
+    "processDesc": "Operational systems redesigned with AI",
+    "people": "People",
+    "peopleTagline": "AI-Empowered",
+    "peopleDesc": "Enable teams to work with AI effectively"
+  },
+  "Services": {
+    "title": "Our Services",
+    "subtitle": "Practical AI services designed for real business impact",
+    "aiSolutions": "AI Solutions",
+    "aiSolutionsDesc": "Custom AI-powered products tailored to your domain — from intelligent automation to decision support systems.",
+    "processConsulting": "Process Consulting",
+    "processConsultingDesc": "Redesign operational workflows with AI at the core — for compliance, efficiency, and scalability.",
+    "aiTraining": "AI Training",
+    "aiTrainingDesc": "Structured capability-building programs to empower your teams to work confidently with AI tools.",
+    "platformDev": "Platform Development",
+    "platformDevDesc": "End-to-end development of AI-integrated platforms — built for performance, security, and scale."
+  },
+  "AIAdvisor": {
+    "title": "AI Advisor",
+    "subtitle": "Answer three quick questions and we'll recommend the best starting point for your AI journey.",
+    "q1": "What do you need most?",
+    "q1_solution": "A ready-to-use AI solution",
+    "q1_process": "Smarter processes & workflows",
+    "q1_training": "AI training for our team",
+    "q2": "What is your biggest challenge?",
+    "q2_automation": "Automating repetitive work",
+    "q2_compliance": "Compliance & quality standards",
+    "q2_capability": "Team AI capability gaps",
+    "q3": "What type of organization are you?",
+    "q3_startup": "Startup / Scale-up",
+    "q3_enterprise": "Enterprise",
+    "q3_regulated": "Regulated industry",
+    "q3_teamUpskill": "Team needing upskilling",
+    "getRecommendation": "Get My Recommendation",
+    "recommendedForYou": "Recommended for you",
+    "resultProduct": "Your organization is best positioned to benefit from AI-powered product solutions — intelligent automation, smart tools, and purpose-built AI applications that deliver immediate value.",
+    "resultProcess": "Your organization is likely to benefit most from structured process transformation and compliance-oriented operational design powered by AI.",
+    "resultPeople": "Your greatest opportunity lies in empowering your teams with AI skills and structured capability building — turning your people into confident AI practitioners.",
+    "contactUs": "Contact Us",
+    "tryAgain": "Try Again"
+  },
+  "CTA": {
+    "title": "Start Building with <accent>AI</accent>",
+    "description": "Turn AI into real work in your organization.",
+    "contact": "Contact Us",
+    "demo": "Request Demo"
+  },
+  "Contact": {
+    "title": "Get in Touch",
+    "subtitle": "Ready to explore what AI can do for your organization? Let's talk.",
+    "name": "Name",
+    "email": "Email",
+    "company": "Company",
+    "message": "Message",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "you@company.com",
+    "companyPlaceholder": "Your company",
+    "messagePlaceholder": "Tell us about your project or challenge...",
+    "nameRequired": "Name is required",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Enter a valid email",
+    "messageRequired": "Message is required",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "successTitle": "Message Sent!",
+    "successMessage": "Thank you for reaching out. We'll get back to you shortly.",
+    "sendAnother": "Send another message",
+    "errorMessage": "Something went wrong. Please try again.",
+    "required": "*"
+  },
+  "Footer": {
+    "rights": "© {year} Processware AI. All rights reserved."
+  }
+}
